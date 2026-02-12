@@ -11,3 +11,12 @@ You are expected to already have Python knowledge to fully understand the projec
 The intention is to help you understand different approaches, improve your problem-solving skills, develop better coding practices over time, and **show my work for the World**.
 
 ## Projects
+
+There are more than 30 projects in this repository. Some are simple, others are more complex. They are not in order of difficulty or importance. All of them have different versions and are in different structures as well.
+
+Let's see a breaf resume of each one of them!
+
+
+### 1 - project_01: Mad Libs
+
+A Mad Lib is a fun word game where you fill in missing words in a story without seeing the full text first. After you provide the words, the completed story is revealed—and it’s usually funny or silly.
