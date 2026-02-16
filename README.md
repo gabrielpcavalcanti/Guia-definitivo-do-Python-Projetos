@@ -17,6 +17,6 @@ There are more than 30 projects in this repository. Some are simple, others are 
 Let's see a breaf resume of each one of them!
 
 
-### 1 - project_01: Mad Libs
+### 1 - project 01: Mad Libs
 
 A Mad Lib is a fun word game where you fill in missing words in a story without seeing the full text first. After you provide the words, the completed story is revealed—and it’s usually funny or silly.
